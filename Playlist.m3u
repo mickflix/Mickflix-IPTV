@@ -1,6 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Now.Thats.What.I.Call.Music",Now.Thats.What.I.Call.Music.105
-http://51.68.215.97:5080/LiveApp/streams/599073313209588782784641.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Crime&Thriller",Capone.2020
 http://troy-fm.co.uk:5080/LiveApp/streams/Capone.2020.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Crime&Thriller",Black.Mass.2015
+http://troy-fm.co.uk:5080/LiveApp/streams/Black.Mass.2015.360p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Crime&Thriller",Casino.1995
+http://troy-fm.co.uk:5080/LiveApp/streams/Casino.1995.360p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Crime&Thriller",Goodfellas.1990
+http://troy-fm.co.uk:5080/LiveApp/streams/Goodfellas.1990.360p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Crime&Thriller",Road.to.Perdition.2002
+http://troy-fm.co.uk:5080/LiveApp/streams/Road.to.Perdition.2002.360p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Crime&Thriller",The.Departed.2006
+http://troy-fm.co.uk:5080/LiveApp/streams/The.Departed.2006.360p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Now.Thats.What.I.Call.Music",Now.Thats.What.I.Call.Music.105
+http://51.68.215.97:5080/LiveApp/streams/599073313209588782784641.m3u8
