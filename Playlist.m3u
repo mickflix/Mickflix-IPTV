@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Sky Store 247",Sky Store One - Dolittle 2020
+#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store One - Dolittle 2020
 http://51.68.215.97:5080/LiveApp/streams/426313535954371863554869.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sky Store 247",Sky Store Two - Frozen II
+#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store Two - Frozen II
 http://51.68.215.97:5080/LiveApp/streams/123238930053139326153621.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sky Store 247",Sky Store Three - Jumanji: The Next Level 2019
+#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store Three - Jumanji: The Next Level 2019
 http://51.68.215.97:5080/LiveApp/streams/859741845823207397909542.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Crime&Thriller",Capone.2020
