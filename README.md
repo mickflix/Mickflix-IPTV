@@ -2,4 +2,6 @@
 
 #Playlist of Live and VOD streams
 
-#https://raw.githubusercontent.com/mickflix/Mickflix-IPTV/master/Playlist.m3u
+https://raw.githubusercontent.com/mickflix/Mickflix-IPTV/master/Playlist.m3u
+
+
