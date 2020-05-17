@@ -14,8 +14,11 @@ http://51.68.215.97:5080/LiveApp/streams/745320012013573000670478.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store Five - Fast&Furious : Hobbs&Shaw
 http://51.68.215.97:5080/LiveApp/streams/813652392090489868419894.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Cartoon Network HD
+#EXTINF:-1 tvg-logo="" group-title="MickFlix-Cartoons",Cartoon Network HD
 http://51.68.215.97:5080/LiveApp/streams/905083850897408279675279.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Now.Thats.What.I.Call.Music",Now.Thats.What.I.Call.Music.105
+#EXTINF:-1 tvg-logo="" group-title="MickFlix-Music",Now.Thats.What.I.Call.Music.105
 http://51.68.215.97:5080/LiveApp/streams/599073313209588782784641.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MickFlix-Movies",The Matrix 247
+http://51.68.215.97:5080/LiveApp/streams/110409623027742254216060.m3u8
