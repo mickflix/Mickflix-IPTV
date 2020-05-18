@@ -49,3 +49,6 @@ http://51.77.230.128:5080/LiveApp/streams/008509602793000930496651.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Hotel.Transylvania.247
 http://51.77.230.128:5080/LiveApp/streams/542385822298414325596850.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Ice.Age.247
+http://51.77.230.128:5080/LiveApp/streams/062856057391132434703107.m3u8
