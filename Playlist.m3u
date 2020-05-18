@@ -36,13 +36,16 @@ http://51.68.215.97:5080/LiveApp/streams/905083850897408279675279.m3u8
 http://51.68.215.97:5080/LiveApp/streams/599073313209588782784641.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Despicable.Me.247
-http://51.68.215.97:5080/LiveApp/streams/516222523977914520604379.m3u8
+http://51.77.230.128:5080/LiveApp/streams/198470971981133088167006.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",The Matrix 247
-http://51.68.215.97:5080/LiveApp/streams/110409623027742254216060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",The.Matrix.247
+http://51.77.230.128:5080/LiveApp/streams/240403788593339685803225.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Lethal Weapon 247
-http://51.68.215.97:5080/LiveApp/streams/825387795875553661014651.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Lethal.Weapon.247
+http://51.77.230.128:5080/LiveApp/streams/045666823331964451277363.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cars 247
-http://51.68.215.97:5080/LiveApp/streams/302321254799349343090785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cars.247
+http://51.77.230.128:5080/LiveApp/streams/008509602793000930496651.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Hotel.Transylvania.247
+http://51.77.230.128:5080/LiveApp/streams/542385822298414325596850.m3u8
