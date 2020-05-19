@@ -4,7 +4,7 @@
 
 https://raw.githubusercontent.com/mickflix/Mickflix-IPTV/master/Playlist.m3u
 
-Can be added to SIPTV apllication or mag Portal get full instructions here
+Can be added to SIPTV application or mag Portal get full instructions here
 
 https://siptv.app/
 
