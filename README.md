@@ -13,6 +13,8 @@ https://siptv.app/howto/
 or the ott mag portal for mag boxes or web browsers  
 make an account here and upload the list
 
+https://ottplayer.es/
+
 http://widget.ottplayer.es/
 
 http://widget.ottplayer.es/old/
