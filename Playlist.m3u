@@ -40,3 +40,9 @@ http://51.77.230.128:5080/LiveApp/streams/062856057391132434703107.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Shrek.247
 http://51.77.230.128:5080/LiveApp/streams/270282744693408536751595.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Euro.Sport.One
+http://51.68.215.97:5080/LiveApp/streams/353843667424803821866854.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Euro.Sport.Two
+http://51.68.215.97:5080/LiveApp/streams/799284871496927212419467.m3u8
