@@ -15,9 +15,15 @@ make an account here and upload the list
 
 https://ottplayer.es/
 
-http://widget.ottplayer.es/
+mag portal use http://widget.ottplayer.es/
 
-http://widget.ottplayer.es/old/
+smart tv browser use http://widget.ottplayer.es/old/
+
+Works well on Android Firestick etc with perfect player download here
+
+https://github.com/mickflix/Mickflix-IPTV/blob/master/apk/Perfect%20Player%20%5BUnlocked%5D%20v1.5.8.apk?raw=true
+
+How to here.......
 
 https://troypoint.com/perfect-player-iptv/
 
