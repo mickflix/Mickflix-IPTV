@@ -76,7 +76,7 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",Now.That.What.I.Call.Music.105
-http://51.68.215.97:5080/LiveApp/streams/599073313209588782784641.m3u8
+http://51.77.230.128:5080/LiveApp/streams/412664886108185359041695.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http%3A%2F%2Fak-boxplus01-live.cds1.yospace.com%2Fthebox%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=1280&height=720&yo.po=5&yo.ac=false&yopad=true
