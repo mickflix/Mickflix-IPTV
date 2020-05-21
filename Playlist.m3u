@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store One - Dolittle 2020
-http://51.68.215.97:5080/LiveApp/streams/426313535954371863554869.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store Two - Frozen II
-http://51.68.215.97:5080/LiveApp/streams/123238930053139326153621.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store Three - Jumanji: The Next Level 2019
-http://51.68.215.97:5080/LiveApp/streams/859741845823207397909542.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store Four - Rambo: Last Blood
-http://51.68.215.97:5080/LiveApp/streams/745320012013573000670478.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store Five - Fast&Furious : Hobbs&Shaw
-http://51.68.215.97:5080/LiveApp/streams/813652392090489868419894.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cartoons",Cartoon Network HD
-http://51.68.215.97:5080/LiveApp/streams/905083850897408279675279.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",Now.Thats.What.I.Call.Music.105
-http://51.68.215.97:5080/LiveApp/streams/599073313209588782784641.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",1.Music.Channel
-http://51.68.215.97:5080/LiveApp/streams/672854191852180889162022.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",1.HD.Music.TV
-http://51.68.215.97:5080/LiveApp/streams/628881106390411473817487.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",Despicable.Me.247
 http://51.77.230.128:5080/LiveApp/streams/198470971981133088167006.m3u8
 
@@ -34,28 +7,3 @@ http://51.77.230.128:5080/LiveApp/streams/240403788593339685803225.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Lethal.Weapon.247
 http://51.77.230.128:5080/LiveApp/streams/045666823331964451277363.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cars.247
-http://51.77.230.128:5080/LiveApp/streams/008509602793000930496651.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Hotel.Transylvania.247
-http://51.77.230.128:5080/LiveApp/streams/542385822298414325596850.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Ice.Age.247
-http://51.77.230.128:5080/LiveApp/streams/062856057391132434703107.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Shrek.247
-http://51.77.230.128:5080/LiveApp/streams/270282744693408536751595.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",UnderWorld.247
-http://51.77.230.128:5080/LiveApp/streams/038014424805529745408044.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Blade.247
-http://51.77.230.128:5080/LiveApp/streams/101550083810936819142509.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Euro.Sport.One
-http://51.68.215.97:5080/LiveApp/streams/353843667424803821866854.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Euro.Sport.Two
-http://51.68.215.97:5080/LiveApp/streams/799284871496927212419467.m3u8
-
