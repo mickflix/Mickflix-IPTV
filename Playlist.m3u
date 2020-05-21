@@ -1,9 +1,137 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Movies",Despicable.Me.247
+
+#EXTINF:-1 tvg-logo="" group-title="Sky.Store.247",Sky.Store.One
+http://51.68.215.97:5080/LiveApp/streams/426313535954371863554869.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sky.Store.247",Sky.Store.Two
+http://51.68.215.97:5080/LiveApp/streams/123238930053139326153621.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sky.Store.247",Sky.Store.Three
+http://51.68.215.97:5080/LiveApp/streams/859741845823207397909542.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sky.Store.247",Sky.Store.Four
+http://51.68.215.97:5080/LiveApp/streams/745320012013573000670478.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sky.Store.247",Sky.Store.Five
+http://51.68.215.97:5080/LiveApp/streams/813652392090489868419894.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-BBCIPlayer",BBC One HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-BBCIPlayer",BBC Two HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-BBCIPlayer",CBBC HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-BBCIPlayer",CBEEBIES HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Action&Adventure",Lethal.Weapon.247
+http://51.77.230.128:5080/LiveApp/streams/045666823331964451277363.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Toy.Story.247
+http://51.77.230.128:5080/LiveApp/streams/409088184755575180597654.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Despicable.Me.247
 http://51.77.230.128:5080/LiveApp/streams/198470971981133088167006.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",The.Matrix.247
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Cars.247
+http://51.77.230.128:5080/LiveApp/streams/008509602793000930496651.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Hotel.Transylvania.247
+http://51.77.230.128:5080/LiveApp/streams/542385822298414325596850.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Ice.Age.247
+http://51.77.230.128:5080/LiveApp/streams/062856057391132434703107.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Shrek.247
+http://51.77.230.128:5080/LiveApp/streams/270282744693408536751595.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Scifi&Horror",Blade.247
+http://51.77.230.128:5080/LiveApp/streams/101550083810936819142509.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Scifi&Horror",The.Matrix.247
 http://51.77.230.128:5080/LiveApp/streams/240403788593339685803225.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Lethal.Weapon.247
-http://51.77.230.128:5080/LiveApp/streams/045666823331964451277363.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Scifi&Horror",UnderWorld.247
+http://51.77.230.128:5080/LiveApp/streams/038014424805529745408044.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Euro.Sport.One
+http://51.68.215.97:5080/LiveApp/streams/353843667424803821866854.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Euro.Sport.Two
+http://51.68.215.97:5080/LiveApp/streams/799284871496927212419467.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Abu.Dhabi.Sports.1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Abu.Dhabi.Sports.2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Abu.Dhabi.Sports.3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Sports",Abu.Dhabi.Sports.4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",Now.That.What.I.Call.Music.105
+http://51.68.215.97:5080/LiveApp/streams/599073313209588782784641.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http%3A%2F%2Fak-boxplus01-live.cds1.yospace.com%2Fthebox%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=1280&height=720&yo.po=5&yo.ac=false&yopad=true
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",The Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3A%2F%2Fak-boxplus01-live.cds1.yospace.com%2Fboxhits%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=1280&height=720&yo.po=5&yo.ac=false&yopad=true
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",4 Music
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http%3A%2F%2Fak-boxplus01-live.cds1.yospace.com%2F4music%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=1280&height=720&yo.po=5&yo.ac=false&yopad=true
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http%3A%2F%2Fak-boxplus01-live.cds1.yospace.com%2Fkiss%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=1280&height=720&yo.po=5&yo.ac=false&yopad=true
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http%3A%2F%2Fak-boxplus01-live.cds1.yospace.com%2Fmagic%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=1280&height=720&yo.po=5&yo.ac=false&yopad=true
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http%3A%2F%2Fak-boxplus01-live.cds1.yospace.com%2Fkerrang%2F&pageURL=http%3A%2F%2Fwww.boxplus.com%2F&width=1280&height=720&yo.po=5&yo.ac=false&yopad=true
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",1.Music.Channel
+http://51.68.215.97:5080/LiveApp/streams/672854191852180889162022.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",1.HD.Music.TV
+http://51.68.215.97:5080/LiveApp/streams/628881106390411473817487.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",H!T.Music.Channel
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",Music.Box
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Music",NRJ.Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-Radio",Capital.Fm
+http://51.68.215.97:5080/LiveApp/streams/722157520821811009431253.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",TRT.World.News
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",Al.Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",RT.News
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",France.24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",Bloomberg
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",ABC.News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",Arirang.TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
