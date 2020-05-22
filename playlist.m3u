@@ -48,6 +48,9 @@ http://51.77.230.128:5080/LiveApp/streams/393873069686504112478163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation&Family",Madagascar.247
 http://51.77.230.128:5080/LiveApp/streams/971998761908200798151093.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Open.Season.247
+http://51.77.230.128:5080/LiveApp/streams/567831306766787430529691.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Animation&Family",Ice.Age.247
 http://51.77.230.128:5080/LiveApp/streams/062856057391132434703107.m3u8
 
