@@ -42,6 +42,12 @@ http://51.77.230.128:5080/LiveApp/streams/008509602793000930496651.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Animation&Family",Hotel.Transylvania.247
 http://51.77.230.128:5080/LiveApp/streams/542385822298414325596850.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Kung.Fu.Panda.247
+http://51.77.230.128:5080/LiveApp/streams/393873069686504112478163.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Animation&Family",Madagascar.247
+http://51.77.230.128:5080/LiveApp/streams/971998761908200798151093.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Animation&Family",Ice.Age.247
 http://51.77.230.128:5080/LiveApp/streams/062856057391132434703107.m3u8
 
@@ -120,6 +126,23 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Mickflix-News",Al.Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",RT.News
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",France.24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",Bloomberg
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",ABC.News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Mickflix-News",Arirang.TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Mickflix-News",RT.News
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
