@@ -2,7 +2,6 @@
 
 #Playlist of Live and VOD streams
 
-https://raw.githubusercontent.com/mickflix/Mickflix-IPTV/master/playlist.m3u
 
 Can be added to SIPTV application or mag Portal get full instructions here
 
