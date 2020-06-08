@@ -2,6 +2,8 @@
 
 #Playlist of Live and VOD streams
 
+http://troy-fm.co.uk:8000/playlist.m3u
+
 
 Can be added to SIPTV application or mag Portal get full instructions here
 
