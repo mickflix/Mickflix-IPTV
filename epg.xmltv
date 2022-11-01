@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="0001">
+<display-name> Moana (2016) ( Adventure, Comedy, Family, Animation )</display-name>
+<programme start="20200101000000" stop="99991231235900" channel="0001">
+<title>(PG) 1h 47m. IMDB rate:7,6.</title>
+<desc>In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.</desc>
+<category>AnimationFamily</category>
+<icon src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4JeejGugONWpJkbnvL12hVoYEDa.jpg"/>
+</programme>
+
+<channel id="0002">
+<display-name> Moana (2016) ( Adventure, Comedy, Family, Animation )</display-name>
+<programme start="20200101000000" stop="99991231235900" channel="0002">
+<title>(PG) 1h 47m. IMDB rate:7,6.</title>
+<desc>In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.</desc>
+<category>AnimationFamily</category>
+<icon src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4JeejGugONWpJkbnvL12hVoYEDa.jpg"/>
+</programme>
